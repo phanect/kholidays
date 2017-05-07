@@ -32,12 +32,12 @@ description "National holiday file for Japan"
 "Vernal Equinox Day"               public on march 21 2002
 "Vernal Equinox Day"               public on march 21 2003
 "Vernal Equinox Day"               public on march 20 2004
-"Vernal Equinox Day"               public on 20.3.2005
-"Vernal Equinox Day"               public on 21.3.2006
-"Vernal Equinox Day"               public on 21.3.2007
-"Vernal Equinox Day"               public on 20.3.2008
-"Vernal Equinox Day"               public on 20.3.2009
-"Vernal Equinox Day"               public on 21.3.2010
+"Vernal Equinox Day"               public on march 20 2005
+"Vernal Equinox Day"               public on march 21 2006
+"Vernal Equinox Day"               public on march 21 2007
+"Vernal Equinox Day"               public on march 20 2008
+"Vernal Equinox Day"               public on march 20 2009
+"Vernal Equinox Day"               public on march 21 2010
 "Vernal Equinox Day"               public on march 21 2011
 "Vernal Equinox Day"               public on march 20 2012
 "Vernal Equinox Day"               public on march 20 2013
@@ -107,14 +107,14 @@ description "National holiday file for Japan"
 
 :: If a "National Holiday" is on Sunday,the following day
 :: shall be a substitute holiday.
-"Substitute holiday"               public on 21.3.2005
-"Substitute holiday"               public on 2.1.2006
-"Substitute holiday"               public on 12.2.2007
-"Substitute holiday"               public on 30.4.2007
-"Substitute holiday"               public on 24.9.2007
-"Substitute holiday"               public on 24.12.2007
-"Substitute holiday"               public on 24.11.2008
-"Substitute holiday"               public on 22.3.2010
+"Substitute holiday"               public on march 21 2005
+"Substitute holiday"               public on january 2 2006
+"Substitute holiday"               public on february 12 2007
+"Substitute holiday"               public on april 30 2007
+"Substitute holiday"               public on september 24 2007
+"Substitute holiday"               public on december 24 2007
+"Substitute holiday"               public on november 24 2008
+"Substitute holiday"               public on march 22 2010
 "Substitute holiday"               public on march 21 2016
 "Substitute holiday"               public on january 2 2017
 "Substitute holiday"               public on february 12 2018

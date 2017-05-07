@@ -35,12 +35,12 @@ description "日本の国民の休日のファイルです。"
 "春分の日"                            public on march 21 2002
 "春分の日"                            public on march 21 2003
 "春分の日"                            public on march 20 2004
-"春分の日"                            public on 20.3.2005
-"春分の日"                            public on 21.3.2006
-"春分の日"                            public on 21.3.2007
+"春分の日"                            public on march 20 2005
+"春分の日"                            public on march 21 2006
+"春分の日"                            public on march 21 2007
 "春分の日"                            public on march 20 2008
 "春分の日"                            public on march 20 2009
-"春分の日"                            public on 21.3.2010
+"春分の日"                            public on march 21 2010
 "春分の日"                            public on march 21 2011
 "春分の日"                            public on march 20 2012
 "春分の日"                            public on march 20 2013
@@ -123,14 +123,14 @@ description "日本の国民の休日のファイルです。"
 :: If a "National Holiday" is on Sunday,the following day
 :: shall be a substitute holiday.
 :"Substitute holiday"
-"振替休日"                            public on 21.3.2005
-"振替休日"                            public on 2.1.2006
-"振替休日"                            public on 12.2.2007
-"振替休日"                            public on 30.4.2007
-"振替休日"                            public on 24.9.2007
-"振替休日"                            public on 24.12.2007
-"振替休日"                            public on 24.11.2008
-"振替休日"                            public on 22.3.2010
+"振替休日"                            public on march 21 2005
+"振替休日"                            public on january 2 2006
+"振替休日"                            public on february 12 2007
+"振替休日"                            public on april 30 2007
+"振替休日"                            public on september 24 2007
+"振替休日"                            public on december 24 2007
+"振替休日"                            public on november 24 2008
+"振替休日"                            public on march 22 2010
 "振替休日"                            public on march 21 2016
 "振替休日"                            public on january 2 2017
 "振替休日"                            public on february 12 2018
