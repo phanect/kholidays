@@ -127,15 +127,6 @@ description "National holiday file for Japan"
 :: Financial
 
 :: Cultural
-"St. Valentine's Day"              cultural on february 14
-"Girls' Festival"                  cultural on march 3
-"Buddha's Birthday"                cultural on april 8
-"May Day"                          cultural on may 1
-"Boys' Festival"                   cultural on may 5
-"Mother's Day"                     cultural on second sunday in may
-"Father's Day"                     cultural on third sunday in june
-"Festival of the Weaver Star"      cultural on july 7
-"Christmas"                        cultural on december 25
 
 :: School
 
