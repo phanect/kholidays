@@ -23,7 +23,7 @@ description "National holiday file for Japan"
 
 :: Public Holidays
 "New Year's Day"                   public on january 1
-"Coming of Age"                    public on second monday in january
+"Coming of Age Day"                public on second monday in january
 "National Foundation Day"          public on february 11
 
 :: Equinox Days on and after 2019 are expected dates. See notes above.

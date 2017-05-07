@@ -23,7 +23,7 @@ description "日本の国民の休日のファイルです。"
 :: Public Holidays
 :"New Year's Day"
 "元旦"                               public on january 1
-:"Coming of Age"
+:"Coming of Age Day"
 "成人の日"                            public on second monday in january
 :"National Foundation Day"
 "建国記念日"                          public on february 11
