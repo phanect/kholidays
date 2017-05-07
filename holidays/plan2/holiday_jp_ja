@@ -18,7 +18,7 @@
 country     "JP"
 language    "ja"
 :name        "optional - defaults to country name"
-:description "(please add description in source language) National holiday file for Japan"
+description "日本の国民の休日のファイルです。"
 
 :: Public Holidays
 :"New Year's Day"
