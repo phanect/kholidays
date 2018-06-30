@@ -112,7 +112,8 @@ description "日本の国民の休日のファイルです。"
 "秋分の日"                            public on september 23 2030
 
 :"Sports Day"
-"体育の日"                            public on second monday in october
+"体育の日"                            public on second monday in october before january 1 2020
+"スポーツの日"                         public on second monday in october after january 1 2020
 :"Culture Day"
 "文化の日"                            public on november 3
 :"Labor Thanksgiving Day"
