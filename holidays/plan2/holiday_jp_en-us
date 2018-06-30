@@ -110,7 +110,9 @@ description "National Holiday file for Japan"
 "Sports Day"                       public on second monday in october
 "Culture Day"                      public on november 3
 "Labor Thanksgiving Day"           public on november 23
-"The Emperor's Birthday"           public on december 23
+
+"The Emperor's Birthday"           public on february 23 after may 1 2019
+"The Emperor's Birthday"           public on december 23 before april 30 2019
 
 :: If a "Public Holiday" is on a Sunday, the first following day which
 :: is not a "Public Holiday" shall be a substitute holiday. If a day

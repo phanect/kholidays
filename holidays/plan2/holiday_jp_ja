@@ -117,8 +117,10 @@ description "日本の国民の休日のファイルです。"
 "文化の日"                            public on november 3
 :"Labor Thanksgiving Day"
 "勤労感謝の日"                         public on november 23
+
 :"The Emperor's Birthday"
-"天皇誕生日"                          public on december 23
+"天皇誕生日"                          public on february 23 after may 1 2019
+"天皇誕生日"                          public on december 23 before april 30 2019
 
 :: If a "Public Holiday" is on a Sunday, the first following day which
 :: is not a "Public Holiday" shall be a substitute holiday. If a day
