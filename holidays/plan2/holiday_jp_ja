@@ -14,34 +14,55 @@
 
 :: Public Holidays (国民の祝日)
 :"New Year's Day"
-"元日"                                public on january 1
+"元日"                                weekend on january 1
 :"Coming of Age Day"
-"成人の日"                            public on second monday in january
+"成人の日"                            weekend on second monday in january
 :"National Foundation Day"
-"建国記念日"                          public on february 11
+"建国記念日"                          weekend on february 11
+:"Vernal Equinox Day"
+"春分の日"                            weekend on 21.3.2010
+"春分の日"                            weekend on 21.3.2011
+"春分の日"                            weekend on 20.3.2012
+"春分の日"                            weekend on 20.3.2013
+"春分の日"                            weekend on 21.3.2014
+"春分の日"                            weekend on 21.3.2015
+"春分の日"                            weekend on 20.3.2016
+"春分の日"                            weekend on 20.3.2017
+"春分の日"                            weekend on 21.3.2018
+"春分の日"                            weekend on 21.3.2019
 :"Showa Day"
-"昭和の日"                            public on april 29
+"昭和の日"                            weekend on april 29
 :"Constitution Day"
-"憲法記念日"                          public on may 3
+"憲法記念日"                          weekend on may 3
 :"Greenery Day"
-"みどりの日"                          public on may 4
+"みどりの日"                          weekend on may 4
 :"Children's Day"
-"こどもの日"                          public on may 5
+"こどもの日"                          weekend on may 5
 :"Oceans' Day"
-"海の日"                              public on third monday in july
+"海の日"                              weekend on third monday in july
 :"Mountains' Day"
-"山の日"                              public on august 11
+"山の日"                              weekend on august 11
 :"Respect for Senior Citizens Day"
-"敬老の日"                            public on third monday in september
-
+"敬老の日"                            weekend on third monday in september
+:"Autumnal Equinox Day"
+"秋分の日"                            weekend on 23.9.2010
+"秋分の日"                            weekend on 23.9.2011
+"秋分の日"                            weekend on 22.9.2012
+"秋分の日"                            weekend on 23.9.2013
+"秋分の日"                            weekend on 23.9.2014
+"秋分の日"                            weekend on 23.9.2015
+"秋分の日"                            weekend on 22.9.2016
+"秋分の日"                            weekend on 23.9.2017
+"秋分の日"                            weekend on 23.9.2018
+"秋分の日"                            weekend on 23.9.2019
 :"Sports Day"
-"体育の日"                            public on second monday in october
+"体育の日"                            weekend on second monday in october
 :"Culture Day"
-"文化の日"                            public on november 3
+"文化の日"                            weekend on november 3
 :"Labor Thanksgiving Day"
-"勤労感謝の日"                        public on november 23
+"勤労感謝の日"                        weekend on november 23
 :"The Emperor's Birthday"
-"天皇誕生日"                          public on december 23
+"天皇誕生日"                          weekend on december 23
 
 :: If a "Public Holiday" is on a Sunday, the first following day which is not
 :: a "Public Holiday" shall be a substitute holiday.  If a day which is not a
@@ -51,27 +72,27 @@
 :: holidays), but they are identical in practice.
 
 :"Substitute holiday"
-"振替休日"                            public on 22.3.2010
-"振替休日"                            public on 2.1.2012
-"振替休日"                            public on 30.4.2012
-"振替休日"                            public on 24.12.2012
-"振替休日"                            public on 6.5.2013
-"振替休日"                            public on 4.11.2013
-"振替休日"                            public on 6.5.2014
-"振替休日"                            public on 24.11.2014
-"振替休日"                            public on 6.5.2015
-"振替休日"                            public on 21.3.2016
-"振替休日"                            public on 2.1.2017
-"振替休日"                            public on 12.2.2018
-"振替休日"                            public on 30.4.2018
-"振替休日"                            public on 24.9.2018
-"振替休日"                            public on 24.12.2018
-"振替休日"                            public on 6.5.2019
-"振替休日"                            public on 12.8.2019
-"振替休日"                            public on 4.11.2019
+"振替休日"                            weekend on 22.3.2010
+"振替休日"                            weekend on 2.1.2012
+"振替休日"                            weekend on 30.4.2012
+"振替休日"                            weekend on 24.12.2012
+"振替休日"                            weekend on 6.5.2013
+"振替休日"                            weekend on 4.11.2013
+"振替休日"                            weekend on 6.5.2014
+"振替休日"                            weekend on 24.11.2014
+"振替休日"                            weekend on 6.5.2015
+"振替休日"                            weekend on 21.3.2016
+"振替休日"                            weekend on 2.1.2017
+"振替休日"                            weekend on 12.2.2018
+"振替休日"                            weekend on 30.4.2018
+"振替休日"                            weekend on 24.9.2018
+"振替休日"                            weekend on 24.12.2018
+"振替休日"                            weekend on 6.5.2019
+"振替休日"                            weekend on 12.8.2019
+"振替休日"                            weekend on 4.11.2019
 
 :"Citizens' holiday"
-"国民の休日"                          public on 22.9.2015
+"国民の休日"                          weekend on 22.9.2015
 
 :: Religious
 
